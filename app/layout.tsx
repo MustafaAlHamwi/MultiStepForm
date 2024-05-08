@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Multi Step Form',
-  description: 'create multistepform'
+  description: 'create multistepform.'
 }
 
 export default function RootLayout({
